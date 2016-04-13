@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Friend\'sChat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub_activity1">SubActivity1</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+    <string name="title_activity_blueooth_activity1">BlueoothActivity1</string>
+</resources>
